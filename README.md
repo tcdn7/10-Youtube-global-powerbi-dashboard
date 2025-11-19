@@ -128,6 +128,7 @@ Total Comments =
 Engagement Rate % =
     DIVIDE ( [Total Likes] + [Total Comments], [Total Views] )
 These measures are reused across cards, bar charts and line chats to provide a consistent analytical layer.
+```
 
 
 ## 💡 High-Level Insights
