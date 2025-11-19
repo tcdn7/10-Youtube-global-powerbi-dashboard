@@ -130,7 +130,7 @@ Engagement Rate % =
 These measures are reused across cards, bar charts and line chats to provide a consistent analytical layer.
 
 
-💡 High-Level Insights
+## 💡 High-Level Insights
 
 - The dashboard covers ~499B video views, ~189K distinct videos and 10 countries.
 
@@ -140,7 +140,8 @@ These measures are reused across cards, bar charts and line chats to provide a c
 
 - Daily time-series charts reveal clear spikes in views, suggesting the impact of viral content and time-based events.
 
-🧑‍💻 About the Author
+
+## 🧑‍💻 About the Author
 
 This dashboard was built as part of my learning path in Data Analytics / Business Intelligence, focusing on:
 
